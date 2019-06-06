@@ -1,0 +1,11 @@
+Optimizing agreement with physical reality.
+
+Making fakes.
+Reconstructing images from complex information streams.
+One pixel (or few pixel) imaging.
+Plotting 3D models of experimental data. 
+How to photograph a black hole (kinda). 
+How to see around corners (kinda)
+
+Concepts and tools used: 
+Computational photography, GANNs, RBMs, image restoration, sparse sensing, deconvolution, texture mapping, deep fakes, dimensionality reduction, matplotlib, mayavi

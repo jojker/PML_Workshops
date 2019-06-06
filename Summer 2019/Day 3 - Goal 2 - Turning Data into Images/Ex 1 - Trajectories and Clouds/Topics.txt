@@ -1,0 +1,8 @@
+2D and 3D lines (trajectories)
+show colorizing the lines to suggest time, or another variable time locked to this one
+Show using markers and line thickness, markers can indicate the start point
+
+3D point clouds
+Isomaps, continuous density clouds, true point clouds, convoluted surfaces, and combining with trajectories
+
+
