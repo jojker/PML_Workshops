@@ -1,0 +1,12 @@
+Optimizing optimization.
+
+There are so many parameters that need adjusting and tweaking, how to not slave away or waste time?
+How to design a system to control an experiment or take real world actions (like a chat-bot, or game player).
+How to design physical objects (or ML systems) that outperform human designers (or at least design faster).
+Other stuff we missed, or spilled over.
+
+Concepts and tools used:
+Reinforcement learning, unsupervised learning, OpenAI, pygame, recurrent neural networks (RNN), hyperparameter optimization, MLflow, genetic algorithms,  Meta-learning,  NLU, question-answering systems, word-association, PID loops, open control, 
+
+
+https://github.com/primaryobjects/AI-Programmer
