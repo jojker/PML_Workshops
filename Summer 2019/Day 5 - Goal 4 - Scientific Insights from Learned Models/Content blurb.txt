@@ -1,0 +1,10 @@
+Optimizing explanatory power.
+
+Establishing proof of principle by answering: Does _____ contain information about (or cause) _____?
+Predicting events or just the next few moments of a time-series or other structured data. 
+Finding a set of equations to capture your data. 
+Finding a set of statistics which captures your data.
+Finding a simple set of rules which describes the system you are interested in.
+
+Concepts and tools used: 
+Autoregressive modeling, time delay embedding, spectrograms, Mutual information, Granger causality,  SSA, MSSA, RNNs, DDA, Koopman theory, model discovery, symbolic regression, grammar induction, reinforcement learning, Genetic Algorithms, PaGMO/PyGMO, Inspyred, PyEvolve, DEAP, Markov modeling, logistic regression. Sparse Identification of Nonlinear Dynamics (SINDy). 
