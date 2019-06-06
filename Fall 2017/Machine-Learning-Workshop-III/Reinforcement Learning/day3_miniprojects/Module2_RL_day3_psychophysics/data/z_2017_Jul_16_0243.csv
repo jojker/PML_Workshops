@@ -1,0 +1,2 @@
+fractal_left,reward_right,fractal_right,prob_left,trial,reward_left,prob_right,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,response.keys,reward,response.rt,date,frameRate,expName,session,participant,
+fig/19.jpg,1,fig/5.jpg,0.629,1,1,0.594,0,0,0,0,left,1,0.735012526478,2017_Jul_16_0243,61.4511506232,2_armed_bandit_experiment,01,z,
