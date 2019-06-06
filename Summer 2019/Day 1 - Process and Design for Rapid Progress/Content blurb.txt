@@ -1,0 +1,13 @@
+ML in a nutshell (it all boils down to optimization). 
+
+Data management: 
+Folder structure, record keeping, naming schemes, and juggling multiple versions. 
+Coding practices: 
+Where to learn, what to learn, not getting confused or forgetting what's next, remembering what your code does, and sharing it with others. 
+Designing your project: 
+Avoiding bias, learning from previous generation's mistakes (Agile), picking resources and techniques, judging the time required.
+Topics to cover: 
+Python (Anaconda). Understanding object oriented languages and dynamic programming in Keras and Tensorflow. Parallel and GPU computing, cloud computing, wild computing concepts (reservoir computing, quantum computing, neuromorphic computing, and bio-computing). Where does statistics end and Machine Learning begin? When does Machine Learning become AI? 
+
+The first rule of ML: 
+Know when not to use ML.
