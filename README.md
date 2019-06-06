@@ -10,7 +10,7 @@ Currently we have gathered material and are working to transcribe new workshop m
 ### general details
 1. The Workshops are organized into 6 days; we booked the room for 4 hours. Each will consist of a series of walk-throughs of worked examples. The walk-throughs should last between 10 and 30 minutes. 
 2. Repository Structure: The folder "Summer 2019" is organized like so: ![Image of folder tree](https://github.com/jojker/PML_Workshops/blob/master/Summer%202019.png)  Each sub-folder beginning with "Ex # - " is named after the task which we *think* we need to provide an example of. However, its only approximate. **If you have a related (or more interesting) task and decide to provide an example feel free to change the name of the example sub-folder**. In each example sub-folder there is a collection of weblinks and/or folders. These folders contain old workshops that can be adapted in whole or in part to fit the intended example. The weblinks usually link to example code. Sometimes the link points to a complete Jupyter notebook that could be taken as is or modified only a little (e.g. replacing technical background with hints at how to adapt the code). 
-3. **The final format for the example subfolder contents should be:** One video file (mp4) containing a recording of a walk-through of the notebook (may be recorded after the workshop, doesn't have to be the exact same notebook). one-three Jupyter notebooks (e.g. three 10-minute notebooks of closely related examples). A sub-folder called "Data" will usually also be there, it contains the data needed to run the examples. There may be a sub-folder called "additional resources" that contains links to anything we think might be helpful. There may also be another folder called "slides" *IF* the video included extra slides, the walk-through should not have slide but should have all images and content in the comments of the Jupyter notebook itself.
+3. **The final format for the example subfolder contents should be:** One video file (mp4) containing a recording of a walk-through of the notebook (may be recorded after the workshop, doesn't have to be the exact same notebook). one-three Jupyter notebooks (e.g. three 10-minute notebooks of closely related examples). A sub-folder called "Data" will usually also be there, it contains the data needed to run the examples. There may be a sub-folder called "additional resources" that contains links to anything we think might be helpful. There may also be another folder called "slides" *IF* the video included extra slides, the walk-through should not have slides but should have all images and content in the comments of the Jupyter notebook itself.
 4. Start picking subfolders and creating/choosing Jupyter notebooks. **The notebooks should be focused on showing how attendees can adapt what they see to their own work.** We DO NOT want lengthy explanations of "auto-grad" or neural architecture. Brief mentions are OK, linking to explanations for attendees to view on their own time is great. Please make sure that you emphasize the actions audience members can take to adapt the code. This means making comments that say: "Redirect this link to a folder of images to one of your own folders" or "You'll need to replace this Pandas code with code that extract your data from however you stored it."
 5. Attendees will have backgrounds that are all over the place. Some will find it hard to follow a sequence of commands in an object-oriented language or dynamic programming example, some will only deal with math in coursework. This is related to #3 above: DONT include many technical details about the linear algebra, calculus, and statistical assumptions underlying the algorithm, **it is more helpful to explain how to "read the code"**. In otherwords the most valuable background is the "logic" behind why each python library's commands are written in a certain way. For example: "The matrix object has an action it can perform call transpose so we use 'mat.transpose()'." This is especially true for people comming from a Matlab background because there is little to no OOP or Dynamic Programming in typical Matlab use cases. Most attendees will have written 500 lines of code or less, few will have written over 10K. DO reference and link to details and admonish attendees to avoid *publishing* findings until they understand the linear algebra, calculus, and statistical assumptions.
 6. **If you adapt someone else's code or notebook ALWAYS cite them loudly and clearly** and make sure you aren't violating a license. We are using it for educational purposes with no commercial gain. You can always use a notebook or code as-is (on the original website) but they probably have very different goals. 
@@ -27,25 +27,25 @@ Currently we have gathered material and are working to transcribe new workshop m
 
 
 ### Examples ranked by how easy they will be to finish
-1. Most easy - notebooks exist but need adaptation 
-Day 2: Ex 2, 3
-Day 4: Ex 2, 3, 4, 
-Day 5: Ex 2, 7
+1. Most easy - notebooks exist but need adaptation - 
+Day 2: Ex 2, 3 - 
+Day 4: Ex 2, 3, 4 -  
+Day 5: Ex 2, 7 - 
 Day 6: Ex 2, 3, 5, 7
-2. Notebooks and Code examples exist but are not quite right, need to combine or add
-Day 2: Ex 1, 4, 5, 7
-Day 3: Ex 4, 6
-Day 4: Ex 1, 6
-Day 5: Ex 3, 4,
+2. Notebooks and Code examples exist but are not quite right, need to combine or add - 
+Day 2: Ex 1, 4, 5, 7 - 
+Day 3: Ex 4, 6 - 
+Day 4: Ex 1, 6 - 
+Day 5: Ex 3, 4 - 
 Day 6: Ex 4
-3. No notebooks/code or bad notebooks/code. Lots of helpful resources and it's not too hard to build from scratch
-Day 1: Ex 2, 3, 6, 7
-Day 3: Ex 3
-Day 4: Ex 5, 7
+3. No notebooks/code or bad notebooks/code. Lots of helpful resources and it's not too hard to build from scratch - 
+Day 1: Ex 2, 3, 6, 7 - 
+Day 3: Ex 3 - 
+Day 4: Ex 5, 7 - 
 Day 6: Ex 1
-4. A useful challenge! Bad notebooks/code or need to combine resources in creative ways to satisfy the example, or need to build from scratch from journal/magazine articles or forum posts and personal experience.
-Day 1: Ex 1, 4, 5 
-Day 2: Ex 6
-Day 3: Ex 1, 2, 7
-Day 5: Ex 1, 5, 6
+4. A useful challenge! Bad notebooks/code or need to combine resources in creative ways to satisfy the example, or need to build from scratch from journal/magazine articles or forum posts and personal experience. - 
+Day 1: Ex 1, 4, 5 - 
+Day 2: Ex 6 - 
+Day 3: Ex 1, 2, 7 - 
+Day 5: Ex 1, 5, 6 - 
 Day 6: Ex 6
