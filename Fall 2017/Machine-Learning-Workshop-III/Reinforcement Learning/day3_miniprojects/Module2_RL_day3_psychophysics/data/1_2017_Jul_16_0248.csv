@@ -1,4 +1,0 @@
-fractal_left,reward_right,fractal_right,prob_left,trial,reward_left,prob_right,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,response.keys,reward,response.rt,date,frameRate,expName,session,participant,
-fig/4.jpg,1,fig/1.jpg,0.519,1,1,0.35,0,0,0,0,right,1,0.485334714234,2017_Jul_16_0248,60.1521027631,2_armed_bandit_experiment,01,1,
-fig/4.jpg,1,fig/1.jpg,0.502,2,1,0.363,0,1,1,1,right,0,1.66650268581,2017_Jul_16_0248,60.1521027631,2_armed_bandit_experiment,01,1,
-fig/4.jpg,1,fig/1.jpg,0.545,3,1,0.368,0,2,2,2,right,0,1.41723148286,2017_Jul_16_0248,60.1521027631,2_armed_bandit_experiment,01,1,
