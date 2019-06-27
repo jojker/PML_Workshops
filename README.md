@@ -1,7 +1,7 @@
 # Physics Machine Learning Club Summer Workshop TO-DO list
 
 This is where the Physics Machine Learning Club puts its workshop materials. We are creating an ambitious new workshop for the summer of 2019. 
-**We have reserved Cupples I room 115 for 10 AM to 3 PM on every Tue/Thu from July 30-Aug 16.** (There is construction in Crow Hall) 
+**We have reserved Cupples I room 115 for 10 AM to 3 PM on every Tue/Thu from July 30-Aug 15.** (There is construction in Crow Hall) 
 If we (as a group) re-write one notebook a day we will be done in time for the workshop. As of 06/06 there are 54 days and 49 un-finished examples. If everyone does just a handful then we'll be done way sooner.
 
 Currently we have gathered material and are working to transcribe new workshop materials from old materials, or from resources we found online. A number of people have offered to volunteer to curate one or more workshops. If you're reading this, then hopefully you are one of them!
