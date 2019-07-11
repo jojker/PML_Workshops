@@ -231,6 +231,7 @@ class BaseMultilayerPerceptron(BaseEstimator, metaclass=ABCMeta):
         #loss = LOSS_FUNCTIONS[loss_func_name](y, activations[-1])
         print(type(y))
         print(type(activations))
+        print(type(activations[-1]))
         loss = -1.0*mutual_info_score(y,activations[-1])
         # Add L2 regularization term to loss
         values = np.sum(
