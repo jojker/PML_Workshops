@@ -30,7 +30,6 @@ from sklearn.utils.multiclass import type_of_target
 
 #TRACK-CHANGE 06/29/2019 imported mutual information
 from sklearn.metrics import mutual_info_score
-from numpy.ndarray import flatten
 
 
 
@@ -234,7 +233,7 @@ class BaseMultilayerPerceptron(BaseEstimator, metaclass=ABCMeta):
         print(type(activations))
         print(type(activations[-1]))
         print(activations[-1].shape)
-        loss = -1.0*mutual_info_score(flatten(y),flatten(activations[-1]))
+        loss = -1.0*mutual_info_score(y.flatten(),activations[-1].flatten())
         # Add L2 regularization term to loss
         values = np.sum(
             np.array([np.dot(s.ravel(), s.ravel()) for s in self.coefs_]))
