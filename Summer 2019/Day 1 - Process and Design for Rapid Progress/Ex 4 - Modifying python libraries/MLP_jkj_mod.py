@@ -229,7 +229,9 @@ class BaseMultilayerPerceptron(BaseEstimator, metaclass=ABCMeta):
             loss_func_name = 'binary_log_loss'
         #TRACK-CHANGE 06/29/2019 replaced old loss function with mutual info
         #loss = LOSS_FUNCTIONS[loss_func_name](y, activations[-1])
-        loss = -1.0*mutual_info_score(y,activations)
+        print(type(y))
+        print(type(activations))
+        loss = -1.0*mutual_info_score(y,activations[-1])
         # Add L2 regularization term to loss
         values = np.sum(
             np.array([np.dot(s.ravel(), s.ravel()) for s in self.coefs_]))
