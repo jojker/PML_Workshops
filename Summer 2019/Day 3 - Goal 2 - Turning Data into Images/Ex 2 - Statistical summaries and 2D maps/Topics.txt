@@ -1,8 +1,0 @@
-Bar charts and histograms
-show 3D bar charts, stacked area charts, 2D area charts, box and wisker plots
-show colorizing to denote other dimensions
-
-2D color maps
-show spike raster diagrams, spectrograms, heat maps, adjacency matrices
-show different ways to sort adjacency matrices, turning time series into adjacency matrices (like the guy who did that for CNNs)
-labeling parts of an image with color or symbols

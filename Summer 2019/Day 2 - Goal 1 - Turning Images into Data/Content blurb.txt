@@ -1,8 +1,0 @@
-Optimizing the usefulness of extracted information.
-
-Classifying images.
-Picking out and tracking key parts of an image
-Combining multiple images to create 3D or extended representations.
-
-Concepts and tools used: 
-Computer vision, CNNs, GANNs, Hopfield networks, recognition, identification, detection, denoising, image segmentation and registration, 3D modeling, pose estimation, content-based image retrieval, dimensionality reduction, transfer learning, deep labcut, tensorflow, keras, PIL,
