@@ -1,9 +1,0 @@
-Optimizing the usefulness of partitioning schemes.
-
-Analyzing text for patterns, sentiment, and more.
-Finding anomalous events in time series.
-Looking for new patterns and discoveries.
-Sorting your data based on events or characteristics. 
-
-Concepts and tools used: 
-Dimensionality reduction, time-delay embedding, spectrograms, RNNs, CNNs, SVM, decision trees and random forest, Unsupervised learning, clustering, regression, NLP, word2vec
