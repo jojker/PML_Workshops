@@ -44,8 +44,6 @@ Day 3: Ex 3 -
 Day 4: Ex 5, 7 - 
 Day 6: Ex 1
 4. A useful challenge! Bad notebooks/code or need to combine resources in creative ways to satisfy the example, or need to build from scratch from journal/magazine articles or forum posts and personal experience. - 
-Day 1: Ex 1, 4, 5 - 
-Day 2: Ex 6 - 
 Day 3: Ex 1, 2, 7 - 
 Day 5: Ex 1, 5, 6 - 
 Day 6: Ex 6
