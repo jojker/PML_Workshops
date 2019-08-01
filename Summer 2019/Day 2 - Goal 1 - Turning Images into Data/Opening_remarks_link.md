@@ -1,4 +1,4 @@
-#Opening remarks links
+# Opening remarks links
 
 [Utility theory slides](https://www.cs.ubc.ca/~kevinlb/teaching/cs532l%20-%202013-14/Lectures/Utility%20Theory.pdf)
 
