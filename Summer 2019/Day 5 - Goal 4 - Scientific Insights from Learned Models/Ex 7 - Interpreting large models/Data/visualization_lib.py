@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import PIL.Image
 
-from io import StringIO
+from io import BytesIO as StringIO
 from IPython.display import display
 from IPython.display import Image
 from scipy import ndimage
